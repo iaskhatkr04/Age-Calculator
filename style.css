@@ -1,0 +1,34 @@
+body {
+    background-color: #e0f7fa; /* Light cyan background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center; /* Center-aligns the content */
+}
+
+h1 {
+    color: #00796b; /* Teal color for the heading */
+    font-size: 2.5em;
+}
+
+input {
+    padding: 10px;
+    font-size: 1em;
+    margin: 10px 0;
+    border: 1px solid #00796b;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #00796b; /* Teal button */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004d40; /* Darker teal on hover */
+}
